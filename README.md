@@ -6,21 +6,22 @@ as I may have removed pieces of code to protect the vendor project it was part o
 *Note that all comment references to "kgb" or "barrk012" mean me.*
 
 The Java sample is not representitve of my skills, but it was handy when I set
-this repository up. I plan to replace it with a better sample.
+this repository up. I plan to replace it with a better sample. My Java programming
+is primarily stand-alone (i.e. POJO) with REST and API experience.
 
 
 Computer "Languages" I have professionally coded in (**BOLD** indicates a sample exists in the repository):
 - ALGOL
 - Assembler (Motorola 68000 series, PDP-11)
 - **BASIC** (RSTS/E, VAX/VMS)
-- **C** (strongest language across many platforms)
+- **C** (strongest language across many platforms. I dream C code.)
 - DATATRIEVE
 - dBase
 - DOS BATCH
 - **FORTRAN**
 - HTML,CSS,XML
 - **Java**
-- **MACRO-11**, **MACRO-VMS**
+- MACRO-11, **MACRO-VMS**
 - PASCAL
 - PERL
 - PHP
