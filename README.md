@@ -3,7 +3,7 @@ Sample source code for prospective employers from projects throughout my career.
 I am the sole author of these samples. Some of the newer smples aren't funtional,
 as I may have removed pieces of code to protect the vendor project it was part of.
 
-*Note that all comment references to "kgb" or "barrk012" mean me.*
+*Note that all comment references to "kgb" or "barrk012" or "kbarret9" mean me.*
 
 The Java sample is not representitve of my skills, but it was handy when I set
 this repository up. I plan to replace it with a better sample. My Java
@@ -22,6 +22,7 @@ exists in the repository):
 - **FORTRAN**
 - HTML,XML
 - **Java**
+- json (parsing)
 - MACRO-11, **MACRO-VMS**
 - PASCAL
 - PERL
@@ -36,32 +37,34 @@ exists in the repository):
 
 Additional "Languages" I have beginner or maintenance experience in:
 - **Applescript**
-- Curl
+- SOAP
 - CSS
 - Javascript
 - Machine Code (binary entry)
 - Python
 - Rexx
 - Ruby (on Rails)
+- Groovy
 
 New "Languages" I want to pick up: Swift
 
 "Languages" I once learned but never used in my career: COBOL, PL/1
 
-Some Development Tools & Frameworks I've used:
+Some Development Tools & Frameworks I use:
 - gcc, gdb
-- GitHub, CVS
-- emacs, vi
+- Git, CVS
+- emacs
 - curl
 - cron / crontab
-- Eclipse, IBM RAD IDE
+- Eclipse, JBOSS
 - Android Studio
 - XMLSpy
-- Embarcadero, TOAD
+- Embarcadero, TOAD, DbVisualizer
 - Bugzilla
 - oAuth
 - TCP/IP Sockets
 - Unix Semaphores
+- Maven
 
 
 	Keith
