@@ -1,70 +1,78 @@
 # sampleCode
-Sample source code for prospective employers from projects throughout my career.
-I am the sole author of these samples. Some of the newer smples aren't funtional,
-as I may have removed pieces of code to protect the vendor project it was part of.
+Sample generic code for prospective employers as proof of language proficiency.
+They are pieces from profects throughout my career and I am the sole author.
+Some of the samples aren't functional standalone, as I may have removed pieces
+to stay compliant with NDAs.
 
-*Note that all comment references to "kgb" or "barrk012" or "kbarret9" mean me.*
+*Note all code references to "kgb" or "barrk012" or "kbarret9" mean me.*
 
-The Java sample is not representitve of my skills, but it was handy when I set
-this repository up. I plan to replace it with a better sample. My Java
-programming is primarily POJO with API, REST, Hibernate, JDBC and API experience.
+"C" is my favorite language, with Java being a close second, and PHP third. I
+did PERL for a few years at IBM, Red Hat and Disney, but I'm a bit rusty. Java
+components I use include JDBC, Hibernate, and JAXB. In all languages I am pro-
+ficient in APIs, RESTful, JSON Parsing, XML.
 
-
-Computer "Languages" I have professionally coded in (**BOLD** indicates a sample
+Computer "Languages" I professionally coded in (**BOLD** indicates a sample
 exists in the repository):
-- ALGOL
-- Assembler (Motorola 68000 series, intel)
 - **BASIC (Compiled)** (RSTS/E, VAX/VMS, Amiga, Atari, Visual BASIC)
-- **C** (strongest language across many platforms. I dream C code.)
-- DATATRIEVE
-- dBase
-- DOS BATCH
-- **FORTRAN**
-- HTML,XML
+- **C** (strongest language across all platforms)
+- DOS BATCH, PowerShell
+- HTML (and some CSS)
 - **Java**
-- json (parsing)
-- MACRO-11, **MACRO-VMS**
-- PASCAL
+- **JSON** Parsing
 - PERL
 - PHP
-- RNO, Runoff, SDML, man (Documentation languages)
-- Shell
+- Sh Shell
 - SQL (Oracle, MySQL)
-- TPU (Text Programming Language)
-- **VMS DCL** (DEC Command Language)
-- VMS RMS (Record Management System)
 - XML, XSL
 
-Additional "Languages" I have beginner or maintenance experience in:
+Additional "Languages" I have beginner or maintenance skills in:
 - **Applescript**
 - SOAP
 - CSS
 - Javascript
-- Machine Code (binary entry)
 - Python
 - Rexx
 - Ruby (on Rails)
 - Groovy
 
-New "Languages" I want to pick up: Swift
-
-"Languages" I once learned but never used in my career: COBOL, PL/1
-
-Some Development Tools & Frameworks I use:
+Some Development Tools and Frameworks I use:
 - gcc, gdb
 - Git, CVS
-- emacs
+- emacs (preferred editor)
 - curl
-- cron / crontab
-- Eclipse, JBOSS
+- cron (crontab)
+- Eclipse
+- JBOSS
 - Android Studio
 - XMLSpy
+- Maven
 - Embarcadero, TOAD, DbVisualizer
 - Bugzilla
 - oAuth
 - TCP/IP Sockets
 - Unix Semaphores
-- Maven
+- OpenShift and Docker containers
+- Message Queuing (Oracle/BEA Tuxedo, MQ)
+
+New "Languages" I hope to pick up:
+- Swift
+- YAML
+- Jenkins File
+
+Legacy Languages I've worked in but are no longer in demand:
+- ALGOL
+- Assembler (Motorola 68000 series, Intel x86)
+- DATATRIEVE
+- dBase
+- **FORTRAN**
+- MACRO-11
+- **MACRO-VMS**
+- PASCAL
+- PL/I
+- RNO, Runoff, SDML, man (Documentation languages)
+- **VMS DCL** (DEC Command Language)
+- VMS RMS (Record Management System)
+
 
 
 	Keith
