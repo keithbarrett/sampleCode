@@ -1,8 +1,8 @@
 # sampleCode
 Sample generic code for prospective employers as proof of language proficiency.
-They are pieces from profects throughout my career and I am the sole author.
-Some of the samples aren't functional standalone, as I may have removed pieces
-to stay compliant with NDAs.
+These are pieces from projects throughout my career and I am the sole author.
+Some of the samples aren't functional standalone because I had to remove pieces
+to stay compliant with NDAs or protect IP.
 
 *Note all code references to "kgb" or "barrk012" or "kbarret9" mean me.*
 
