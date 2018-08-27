@@ -1,4 +1,4 @@
-# sampleCode
+# Sample Code
 
 Sample generic code samples as proof of language proficiency.
 These are pieces from projects throughout my career and I am the sole author.
@@ -17,15 +17,15 @@ exists in the repository):
 - **C** (strongest language across all platforms)
 - **Python** (includes JSON, XML, Restful)
 - **Java**
-- **PHP**
-- **Shell / Bash**
-- **SQL** (Oracle, MySQL)
+- PHP
+- Shell / Bash
+- SQL (Oracle, MySQL)
 - DOS BATCH, PowerShell
 - HTML (and some CSS)
-- **PERL**
+- PERL
 
 Additional "Languages" I have beginner or maintenance skills in:
-- Applescript
+- **Applescript**
 - CSS
 - Javascript
 - Rexx
