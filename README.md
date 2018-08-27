@@ -58,9 +58,9 @@ Legacy Languages I've worked in but are no longer in demand:
 - ALGOL
 - Assembler (Motorola 68000 series, Intel x86)
 - **BASIC (Compiled)** (RSTS/E, VAX/VMS, Amiga, Atari)
-- **DATATRIEVE**
-- **dBase**
-- **FORTRAN**
+- DATATRIEVE
+- dBase
+- FORTRAN
 - MACRO-11
 - **MACRO-VMS**
 - PASCAL
