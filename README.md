@@ -14,7 +14,6 @@ proficient in APIs, RESTful, JSON, XML.
 
 Computer "Languages" I professionally coded in (**BOLD** indicates a sample
 exists in the repository):
-- **BASIC (Compiled)** (RSTS/E, VAX/VMS, Amiga, Atari)
 - **C** (strongest language across all platforms)
 - **Python** (includes JSON, XML, Restful)
 - DOS BATCH, PowerShell
@@ -26,12 +25,11 @@ exists in the repository):
 - **SQL** (Oracle, MySQL)
 
 Additional "Languages" I have beginner or maintenance skills in:
-- **Applescript**
+- Applescript
 - CSS
 - Javascript
 - Rexx
 - Ruby (on Rails)
-- Groovy
 - YAML, Jenkins File
 
 Some Development Tools and Frameworks I use:
@@ -54,10 +52,12 @@ Some Development Tools and Frameworks I use:
 
 New "Languages" I hope to pick up:
 - Swift
+- Groovy
 
 Legacy Languages I've worked in but are no longer in demand:
 - ALGOL
 - Assembler (Motorola 68000 series, Intel x86)
+- **BASIC (Compiled)** (RSTS/E, VAX/VMS, Amiga, Atari)
 - **DATATRIEVE**
 - **dBase**
 - **FORTRAN**
