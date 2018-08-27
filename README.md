@@ -16,13 +16,13 @@ Computer "Languages" I professionally coded in (**BOLD** indicates a sample
 exists in the repository):
 - **C** (strongest language across all platforms)
 - **Python** (includes JSON, XML, Restful)
-- DOS BATCH, PowerShell
-- HTML (and some CSS)
 - **Java**
-- **PERL**
 - **PHP**
 - **Shell / Bash**
 - **SQL** (Oracle, MySQL)
+- DOS BATCH, PowerShell
+- HTML (and some CSS)
+- **PERL**
 
 Additional "Languages" I have beginner or maintenance skills in:
 - Applescript
