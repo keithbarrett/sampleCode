@@ -8,15 +8,13 @@ to stay compliant with corporate NDAs or IP.
 *Note all code references to "kgb", "barrk012", "kbarret9" or "keibarre" mean me.*
 
 "C" and Python are my favorite languages, followed by Java, then PHP. I
-did PERL for a few years at IBM, Red Hat and Disney, but I'm a bit rusty. Java
-components I use include JDBC, Hibernate, and JAXB. In all languages I am
-proficient in APIs, RESTful, JSON, XML.
+did PERL for a few years at IBM, Red Hat and Disney, but I'm a bit rusty. Java cmponents I use include JDBC, Hibernate, and JAXB. In all languages I am proficient in APIs, RESTful, JSON, XML.
 
 Computer "Languages" I professionally coded in (**BOLD** indicates a sample
 exists in the repository):
 - **C** (strongest language across all platforms)
-- **Python** (includes JSON, XML, Restful)
-- **Java**
+- **Python** (includes Django, Pycharm, JSON, XML, Restful)
+- **Java** (includes jdbc, jaxb, xml, some spring)
 - PHP
 - Shell / Bash
 - SQL (Oracle, MySQL)
