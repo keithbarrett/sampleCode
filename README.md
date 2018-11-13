@@ -51,10 +51,11 @@ Some Development Tools and Frameworks I use:
 New "Languages" I hope to pick up:
 - Swift
 - Groovy
+- Ruby on Rails
 
 Legacy Languages I've worked in but are no longer in demand:
 - ALGOL
-- Assembler (Motorola 68000 series, Intel x86)
+- Assembler (Motorola 68000 series)
 - DEC **BASIC-PLUS 2 (Compiled)** (RSTS/E, VAX/VMS, Amiga, Atari)
 - DATATRIEVE
 - dBase
