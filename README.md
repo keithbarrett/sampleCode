@@ -55,7 +55,7 @@ New "Languages" I hope to pick up:
 Legacy Languages I've worked in but are no longer in demand:
 - ALGOL
 - Assembler (Motorola 68000 series, Intel x86)
-- **BASIC (Compiled)** (RSTS/E, VAX/VMS, Amiga, Atari)
+- DEC **BASIC-PLUS 2 (Compiled)** (RSTS/E, VAX/VMS, Amiga, Atari)
 - DATATRIEVE
 - dBase
 - FORTRAN
